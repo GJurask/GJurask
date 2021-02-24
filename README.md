@@ -11,11 +11,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+-  Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
-
 
 # Gabriel Jurask
 
@@ -26,6 +24,8 @@ Adoro ensinar, auxiliar as pessoas a chegar no próximo nível. Fui monitor da m
 Voluntário ativo no movimento escoteiro. :sunrise_over_mountains:
 SEMPRE ALERTA! 
 
-Em alguns momentos gosto de fazer ums lives jogando alguns jogos ou desenvolvendo alguns mapas no roblox 
-https://img.shields.io/twitch/status/JuraskPark?style=social
-| 
+Conect-se comigo via LinkedIn
+https://img.shields.io/twitter/url?label=LinkedIn%20-%20GJurask&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgabriel-jurask%2F
+
+Em alguns momentos gosto de fazer ums lives 😄 jogando alguns jogos ou desenvolvendo alguns mapas no roblox 
+https://img.shields.io/twitch/status/JuraskPark?style=social&label=Twitch%20-%20JuraskPark
