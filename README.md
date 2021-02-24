@@ -9,7 +9,9 @@ Voluntário ativo no movimento escoteiro. :sunrise_over_mountains:
 SEMPRE ALERTA! 
 
 Conect-se comigo via LinkedIn
+
 <img alt="LinkedIn" src="https://img.shields.io/twitter/url?label=LinkedIn%20-%20GJurask&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgabriel-jurask%2F">
 
 Em alguns momentos gosto de fazer ums lives 😄 jogando alguns jogos ou desenvolvendo alguns mapas no roblox 
+
 <img alt="Twitch" src="https://img.shields.io/twitch/status/JuraskPark?style=social&label=Twitch%20-%20JuraskPark">
